@@ -1,7 +1,6 @@
 {
-  "homepage": "http://ashshah.github.io/buddy-app",
-
-  "name": "buddy-landing",
+  "name": "buddy",
+  "homepage": "https://ashshah1.github.io/buddy-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
