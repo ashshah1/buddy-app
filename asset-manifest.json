@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/buddy-app/static/css/main.2292fb61.chunk.css",
+    "main.js": "/buddy-app/static/js/main.64c38292.chunk.js",
+    "main.js.map": "/buddy-app/static/js/main.64c38292.chunk.js.map",
+    "runtime-main.js": "/buddy-app/static/js/runtime-main.473932d4.js",
+    "runtime-main.js.map": "/buddy-app/static/js/runtime-main.473932d4.js.map",
+    "static/css/2.ec02d681.chunk.css": "/buddy-app/static/css/2.ec02d681.chunk.css",
+    "static/js/2.7ed11318.chunk.js": "/buddy-app/static/js/2.7ed11318.chunk.js",
+    "static/js/2.7ed11318.chunk.js.map": "/buddy-app/static/js/2.7ed11318.chunk.js.map",
+    "static/js/3.ee41596d.chunk.js": "/buddy-app/static/js/3.ee41596d.chunk.js",
+    "static/js/3.ee41596d.chunk.js.map": "/buddy-app/static/js/3.ee41596d.chunk.js.map",
+    "index.html": "/buddy-app/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/buddy-app/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.2292fb61.chunk.css.map": "/buddy-app/static/css/main.2292fb61.chunk.css.map",
+    "static/js/2.7ed11318.chunk.js.LICENSE.txt": "/buddy-app/static/js/2.7ed11318.chunk.js.LICENSE.txt",
+    "static/media/about-1.cfa22690.png": "/buddy-app/static/media/about-1.cfa22690.png",
+    "static/media/about.df0c5fc8.png": "/buddy-app/static/media/about.df0c5fc8.png",
+    "static/media/ash.db3eb3df.png": "/buddy-app/static/media/ash.db3eb3df.png",
+    "static/media/david.2f55a506.png": "/buddy-app/static/media/david.2f55a506.png",
+    "static/media/feature-1.35c3456a.png": "/buddy-app/static/media/feature-1.35c3456a.png",
+    "static/media/feature-2.76055a5b.png": "/buddy-app/static/media/feature-2.76055a5b.png",
+    "static/media/feature-3.fd2991f3.png": "/buddy-app/static/media/feature-3.fd2991f3.png",
+    "static/media/feature-4.7bc3064c.png": "/buddy-app/static/media/feature-4.7bc3064c.png",
+    "static/media/kayla.1e29d7cc.png": "/buddy-app/static/media/kayla.1e29d7cc.png",
+    "static/media/winnie.3b9c2917.png": "/buddy-app/static/media/winnie.3b9c2917.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.473932d4.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.7ed11318.chunk.js",
+    "static/css/main.2292fb61.chunk.css",
+    "static/js/main.64c38292.chunk.js"
+  ]
+}
