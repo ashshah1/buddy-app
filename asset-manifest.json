@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/buddy-app/static/css/main.2292fb61.chunk.css",
-    "main.js": "/buddy-app/static/js/main.40d36513.chunk.js",
-    "main.js.map": "/buddy-app/static/js/main.40d36513.chunk.js.map",
+    "main.css": "/buddy-app/static/css/main.b3a66790.chunk.css",
+    "main.js": "/buddy-app/static/js/main.b45ec2e0.chunk.js",
+    "main.js.map": "/buddy-app/static/js/main.b45ec2e0.chunk.js.map",
     "runtime-main.js": "/buddy-app/static/js/runtime-main.a43f64f9.js",
     "runtime-main.js.map": "/buddy-app/static/js/runtime-main.a43f64f9.js.map",
     "static/css/2.ec02d681.chunk.css": "/buddy-app/static/css/2.ec02d681.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1a4bf096.chunk.js.map": "/buddy-app/static/js/3.1a4bf096.chunk.js.map",
     "index.html": "/buddy-app/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/buddy-app/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.2292fb61.chunk.css.map": "/buddy-app/static/css/main.2292fb61.chunk.css.map",
+    "static/css/main.b3a66790.chunk.css.map": "/buddy-app/static/css/main.b3a66790.chunk.css.map",
     "static/js/2.ed3f9a73.chunk.js.LICENSE.txt": "/buddy-app/static/js/2.ed3f9a73.chunk.js.LICENSE.txt",
     "static/media/about-1.cfa22690.png": "/buddy-app/static/media/about-1.cfa22690.png",
     "static/media/about.df0c5fc8.png": "/buddy-app/static/media/about.df0c5fc8.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.a43f64f9.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.ed3f9a73.chunk.js",
-    "static/css/main.2292fb61.chunk.css",
-    "static/js/main.40d36513.chunk.js"
+    "static/css/main.b3a66790.chunk.css",
+    "static/js/main.b45ec2e0.chunk.js"
   ]
 }
