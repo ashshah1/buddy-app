@@ -82,7 +82,7 @@ function App() {
       </div>
       <div data-aos="fade-up" data-aos-duration="1500" className="about-4">
         <h2 className="section-header">Demo</h2>
-        <iframe width="800" height="500" src="https://www.youtube.com/embed/OwPqMuXoM_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="800" height="500" src="https://www.youtube.com/embed/gB21iquaZfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div data-aos="fade-up" data-aos-duration="1500" className="about-5">
         <h2 className="section-header">Team Members</h2>
