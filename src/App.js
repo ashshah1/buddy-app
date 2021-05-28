@@ -78,9 +78,9 @@ function App() {
             </div>
           </div>
         </div>
-        <a href="https://buddy-7d855.web.app/" target="_blank" data-aos="fade-up" data-aos-duration="1500" className="learn-more-button">MEET YOUR BUDDY</a>
+        <a href="https://buddy-7d855.web.app/" target="_blank" data-aos="fade-up" data-aos-duration="1500" className="learn-more-button">TRY BUDDY TODAY</a>
       </div>
-      <div data-aos="fade-up" data-aos-duration="1500" className="about-4">
+      <div data-aos-duration="1500" className="about-4">
         <h2 className="section-header">Demo</h2>
         <iframe width="800" height="500" src="https://www.youtube.com/embed/gB21iquaZfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
@@ -115,7 +115,7 @@ function App() {
       <div className="about-6">
         <h2 className="section-header">Project Status</h2>
         <p>University of Washington Information School Capstone project for Winter/Spring 2021</p>
-        <p>Waiting for Frank to go over handoff documentation</p>
+        <p>Will continue development post Capstone.</p>
       </div>
 
       <div className="about-footer">
